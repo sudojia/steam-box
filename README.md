@@ -31,11 +31,11 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/2d6d5314d13fe2e682b7d92674492e84" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 191 hrs 2 mins
-🎮 NARAKA: BLADEPOINT               🕘 180 hrs 15 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 176 hrs 42 mins
-🔫 Counter-Strike 2                 🕘 169 hrs 18 mins
-🎮 Call of Duty®                    🕘 77 hrs 35 mins
+🎮 Apex Legends                     🕘 192 hrs 2 mins
+🎮 NARAKA: BLADEPOINT               🕘 181 hrs 15 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 177 hrs 42 mins
+🔫 Counter-Strike 2                 🕘 170 hrs 18 mins
+🎮 Call of Duty®                    🕘 78 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
