@@ -29,7 +29,16 @@ English | [简体中文](./README_zh.md)
 1. For updating a markdown file，add comments to the place where you want to update in the markdown file.
    ```markdown
     <!-- steam-box start -->
-    <!-- steam-box end -->
+#### <a href="https://gist.github.com/2d6d5314d13fe2e682b7d92674492e84" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Apex Legends                     🕘 181 hrs 13 mins
+🎮 NARAKA: BLADEPOINT               🕘 170 hrs 25 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 166 hrs 53 mins
+🔫 Counter-Strike 2                 🕘 159 hrs 29 mins
+🎮 Call of Duty®                    🕘 67 hrs 45 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
     
    ```
 
