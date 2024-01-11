@@ -35,7 +35,7 @@ English | [简体中文](./README_zh.md)
 🍳 PUBG: BATTLEGROUNDS              🕘 505 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 495 hrs 48 mins
 🎮 Love Is All Around               🕘 407 hrs 47 mins
-🎮 Call of Duty®                    🕘 404 hrs 6 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 406 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
