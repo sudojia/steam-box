@@ -34,7 +34,7 @@ English | [简体中文](./README_zh.md)
 🎮 Apex Legends                     🕘 519 hrs 31 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 505 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 495 hrs 48 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 487 hrs 47 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 490 hrs 5 mins
 🎮 Battlefield 1 ™                  🕘 463 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
