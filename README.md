@@ -31,11 +31,11 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/2d6d5314d13fe2e682b7d92674492e84" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
+🎮 Battlefield 1 ™                  🕘 546 hrs 29 mins
 🎮 Apex Legends                     🕘 519 hrs 31 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 505 hrs 21 mins
-🎮 Battlefield 1 ™                  🕘 498 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 495 hrs 48 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 490 hrs 9 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 490 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
