@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/2d6d5314d13fe2e682b7d92674492e84" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Battlefield 1 ™                  🕘 610 hrs 37 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 522 hrs 38 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 524 hrs 22 mins
 🎮 Apex Legends                     🕘 519 hrs 31 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 505 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 495 hrs 48 mins
